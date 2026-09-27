@@ -1,0 +1,37 @@
+# Data and large artefacts
+data/
+*.ckpt
+*.pt
+*.h5
+*.parquet
+*.zip
+
+# Papers (keep in Zotero)
+*.pdf
+!sprints/**/*.pdf
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.run.xml
+*.bcf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
