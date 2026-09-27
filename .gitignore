@@ -9,6 +9,7 @@ data/
 # Papers (keep in Zotero)
 *.pdf
 !sprints/**/*.pdf
+!/proposal.pdf
 
 # LaTeX build files
 *.aux

@@ -10,6 +10,7 @@ weekly log and reading notes. The link is shared with the PD/E course coordinato
 
 | If you want to know…                        | Go to                                  |
 | ------------------------------------------- | -------------------------------------- |
+| What the thesis is about                    | [`proposal.pdf`](proposal.pdf)         |
 | What's planned and what's being done        | [Project board](https://github.com/users/RicardoNuno/projects/6) |
 | Sprint goals, presentations and reviews     | [`sprints/`](sprints/)                 |
 | What happened each week                     | [`log/`](log/)                         |
@@ -59,6 +60,7 @@ Size: `S` (≤ half a day) · `M` (1–3 days) · `L` (a week or more, split it)
 
 ```
 .
+├── proposal.pdf              # thesis proposal
 ├── sprints/
 │   └── sprint-N/
 │       ├── README.md         # goal, presentation, review, retro
