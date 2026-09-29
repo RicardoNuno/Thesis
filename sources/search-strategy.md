@@ -83,3 +83,5 @@ Start from a few seed papers, then follow references (backward) and citing paper
 | 2026-09-29 | Google Scholar | `smartwatch "phone checking" OR "smartphone use" reduce` | - | 7: mcmillan2017, visuri2021, chen2021, lee2020pass, olson2022nudge, schmuck2020, vanvelthoven2018 |
 
 Google Scholar hit counts not recorded; Scholar only gives rough estimates.
+
+43 papers in the reading list were identified before the structured searches, as seed papers from a preliminary AI-assisted search, each verified via Crossref, and are not attributed to a specific query.
