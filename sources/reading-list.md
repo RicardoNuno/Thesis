@@ -7,7 +7,7 @@ Priority: ★ = read first
 
 | Bibkey | Title | Year | Status | Note |
 | ------ | ----- | ---- | ------ | ---- |
-| sohn2019 | ★ [Prevalence of problematic smartphone usage and associated mental health outcomes amongst children and young people: a systematic review, meta-analysis and GRADE of the evidence](https://doi.org/10.1186/s12888-019-2350-x) | 2019 | to-read | Meta-analysis: about 1 in 4 young people; links to depression, anxiety, sleep |
+| sohn2019 | ★ [Prevalence of problematic smartphone usage and associated mental health outcomes amongst children and young people: a systematic review, meta-analysis and GRADE of the evidence](https://doi.org/10.1186/s12888-019-2350-x) | 2019 | read | Meta-analysis: about 1 in 4 young people; links to depression, anxiety, sleep |
 | olson2022 | ★ [Smartphone addiction is increasing across the world: A meta-analysis of 24 countries](https://doi.org/10.1016/j.chb.2021.107138) | 2022 | to-read | The problem is growing; "why now" |
 | panova2018 | ★ [Is smartphone addiction really an addiction?](https://doi.org/10.1556/2006.7.2018.49) | 2018 | to-read | Critical view; frame as "problematic use" |
 | yang2020 | [Association of problematic smartphone use with poor sleep quality, depression, and anxiety: A systematic review and meta-analysis](https://doi.org/10.1016/j.psychres.2019.112686) | 2020 | to-read | Effect sizes for sleep and mental health |
