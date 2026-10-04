@@ -67,7 +67,7 @@ Size: `S` (≤ half a day) · `M` (1–3 days) · `L` (a week or more, split it)
 └── sources/
     ├── references.bib        # single BibTeX file used by the thesis
     ├── reading-list.md       # what to read, what's been read
-    └── notes/                # one note per paper (bibkey.md)
+    └── notes/                # one note per paper (section/bibkey.md)
 ```
 
 ## Contacts
