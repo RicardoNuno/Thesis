@@ -141,7 +141,7 @@ Priority: ★ = read first
 
 | Bibkey | Title | Year | Status | Note |
 | ------ | ----- | ---- | ------ | ---- |
-| weiser1991 | ★ [The Computer for the 21st Century](https://doi.org/10.1038/scientificamerican0991-94) | 1991 | to-read | Ubiquitous computing vision |
+| weiser1991 | ★ [The Computer for the 21st Century](https://doi.org/10.1038/scientificamerican0991-94) | 1991 | read | Ubiquitous computing vision |
 | goggin2006 | [Cell Phone Culture: Mobile Technology in Everyday Life](https://doi.org/10.4324/9780203827062) | 2006 | to-read | Book: cultural history of the mobile phone |
 | katz2002 | [Perpetual Contact: Mobile Communication, Private Talk, Public Performance](https://doi.org/10.1017/cbo9780511489471) | 2002 | to-read | Book: always-reachable condition |
 | haddon2020 | [Domestication analyses and the smartphone](https://doi.org/10.1093/oxfordhb/9780190864385.013.1) | 2020 | to-read | Domestication from mobile phones to smartphones |
