@@ -12,7 +12,7 @@ Priority: ★ = read first
 | panova2018 | ★ [Is smartphone addiction really an addiction?](https://doi.org/10.1556/2006.7.2018.49) | 2018 | read | Critical view; frame as "problematic use" |
 | yang2020 | [Association of problematic smartphone use with poor sleep quality, depression, and anxiety: A systematic review and meta-analysis](https://doi.org/10.1016/j.psychres.2019.112686) | 2020 | read | Effect sizes for sleep and mental health |
 | elhai2017 | [Problematic smartphone use: A conceptual overview and systematic review of relations with anxiety and depression psychopathology](https://doi.org/10.1016/j.jad.2016.08.030) | 2017 | read | Defines the construct |
-| sunday2021 | [The effects of smartphone addiction on learning: A meta-analysis](https://doi.org/10.1016/j.chbr.2021.100114) | 2021 | to-read | Learning and academic outcomes |
+| sunday2021 | [The effects of smartphone addiction on learning: A meta-analysis](https://doi.org/10.1016/j.chbr.2021.100114) | 2021 | skimmed | Learning and academic outcomes |
 | kwon2013sas | [Development and Validation of a Smartphone Addiction Scale (SAS)](https://doi.org/10.1371/journal.pone.0056936) | 2013 | to-read | Foundational scale |
 | kwon2013sassv | [The Smartphone Addiction Scale: Development and Validation of a Short Version for Adolescents](https://doi.org/10.1371/journal.pone.0083558) | 2013 | to-read | SAS-SV, most used short scale |
 | yildirim2015 | [Exploring the dimensions of nomophobia: Development and validation of a self-reported questionnaire](https://doi.org/10.1016/j.chb.2015.02.059) | 2015 | to-read | Nomophobia, NMP-Q scale |
