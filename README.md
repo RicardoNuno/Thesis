@@ -2,8 +2,8 @@
 
 Progress report and notebook for my PD/E (Projeto/Dissertação/Estágio) work.
 
-This repository is where I record **tasks done and tasks still to do**: backlog, sprint plans,
-weekly log and reading notes. The link is shared with the PD/E course coordinator
+This repository is where I record **tasks done and tasks still to do**: backlog, sprint plans
+and reading notes. The link is shared with the PD/E course coordinator
 (regente) and with my supervisor(s) (orientador(es)), so anyone can check where the work stands at any time.
 
 ## Where to look
@@ -13,7 +13,6 @@ weekly log and reading notes. The link is shared with the PD/E course coordinato
 | What the thesis is about                    | [`proposal.pdf`](proposal.pdf)         |
 | What's planned and what's being done        | [Project board](https://github.com/users/RicardoNuno/projects/6) |
 | Sprint goals, presentations and reviews     | [`sprints/`](sprints/)                 |
-| What happened each week                     | [`log/`](log/)                         |
 | What I've read and what I think about it    | [`sources/`](sources/)                 |
 
 ## Calendar
@@ -49,7 +48,7 @@ Work is organised in **4 sprints**, each ending at a PD/E Sprint session where p
 1. Every task is a GitHub issue on the [Project board](https://github.com/users/RicardoNuno/projects/6),
    with **Status**, **Sprint**, **Area** and **Size** fields.
 2. At the start of each sprint, tasks are assigned to it and the goal is written in [`sprints/`](sprints/).
-3. During the sprint, the status is updated on the board and a short weekly entry goes into [`log/`](log/).
+3. During the sprint, the status is updated on the board.
 4. At the sprint review, the presentation goes into `sprints/sprint-N/slides.pdf`, and the sprint
    README gets a **Review** (what was delivered, feedback) and a **Retrospective** (what to change) section.
 
@@ -65,7 +64,6 @@ Size: `S` (≤ half a day) · `M` (1–3 days) · `L` (a week or more, split it)
 │   └── sprint-N/
 │       ├── README.md         # goal, presentation, review, retro
 │       └── slides.pdf        # presentation given at the sprint review
-├── log/                      # weekly progress entries (YYYY-Www.md)
 └── sources/
     ├── references.bib        # single BibTeX file used by the thesis
     ├── reading-list.md       # what to read, what's been read
