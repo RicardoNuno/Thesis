@@ -19,7 +19,7 @@ Priority: ★ = read first
 | orben2019 | [The association between adolescent well-being and digital technology use](https://doi.org/10.1038/s41562-018-0506-1) | 2019 | skimmed | Critical view: very small effects |
 | chu2023 | [Dose-response analysis of smartphone usage and self-reported sleep quality: a systematic review and meta-analysis of observational studies](https://doi.org/10.5664/jcsm.10392) | 2023 | skimmed | More use, worse sleep (dose-response) |
 | almamun2025 | [The prevalence of nomophobia: A systematic review and meta-analysis](https://doi.org/10.1016/j.psychres.2025.116521) | 2025 | skimmed | Current nomophobia prevalence |
-| leonmejia2021 | [A systematic review on nomophobia prevalence: Surfacing results and standard guidelines for future research](https://doi.org/10.1371/journal.pone.0250509) | 2021 | to-read | Earlier nomophobia review with guidelines |
+| leonmejia2021 | [A systematic review on nomophobia prevalence: Surfacing results and standard guidelines for future research](https://doi.org/10.1371/journal.pone.0250509) | 2021 | skimmed | Earlier nomophobia review with guidelines |
 | larsen2023 | [Excessive smartphone use and addiction: When harms start outweighing benefits](https://doi.org/10.1111/add.16060) | 2023 | to-read | Where use turns into a problem |
 | gerlach2020 | [Constant Checking Is Not Addiction: A Grounded Theory of IT-Mediated State-Tracking](https://doi.org/10.25300/misq/2020/15685) | 2020 | to-read | Critical view: checking as state-tracking, not addiction |
 | james2023 | [Understanding the construction of 'behavior' in smartphone addiction: A scoping review](https://doi.org/10.1016/j.addbeh.2022.107503) | 2023 | to-read | What "use" actually means in addiction studies |

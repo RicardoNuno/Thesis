@@ -34,7 +34,7 @@ Builds the 20-item Nomophobia Questionnaire (NMP-Q), measuring "the fear of not 
 - Limitation: 9 interviewees, all heavy users from one university, define the whole construct.
 - Limitation: PCA, not true factor analysis, and no CFA; the author lists CFA as future work. The large first factor suggests the four "dimensions" may mostly be one general factor.
 - Limitation: validity checked only against another self-report phone-involvement scale (r = .71); nothing on anxiety, wellbeing or actual use.
-- Limitation: no cut-off. The 20–140 score bands later used for "mild / moderate / severe" prevalence are not from this paper (to check where they come from).
+- Limitation: no cut-off. The 20–140 score bands later used for "mild / moderate / severe" prevalence are not from this paper; they come from Yildirim, Sumuer, Adnan & Yildirim (2016, Turkish college students), per leonmejia2021.
 - Limitation: one US university, mostly 18–21, women over-represented (55% vs 43% in the population; the authors admit this).
 - Limitation: the author says in the thesis he was a "nomophobe" himself and believes people bond with their phones (p. 31), which may have shaped the interviews.
 - Limitation: calls nomophobia a possible DSM-5 "situational phobia" (p. 71) with no clinical evidence.
