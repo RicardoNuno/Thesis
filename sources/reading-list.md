@@ -17,7 +17,7 @@ Priority: ★ = read first
 | kwon2013sassv | [The Smartphone Addiction Scale: Development and Validation of a Short Version for Adolescents](https://doi.org/10.1371/journal.pone.0083558) | 2013 | read | SAS-SV, most used short scale |
 | yildirim2015 | [Exploring the dimensions of nomophobia: Development and validation of a self-reported questionnaire](https://doi.org/10.1016/j.chb.2015.02.059) | 2015 | read | Nomophobia, NMP-Q scale |
 | orben2019 | [The association between adolescent well-being and digital technology use](https://doi.org/10.1038/s41562-018-0506-1) | 2019 | skimmed | Critical view: very small effects |
-| chu2023 | [Dose-response analysis of smartphone usage and self-reported sleep quality: a systematic review and meta-analysis of observational studies](https://doi.org/10.5664/jcsm.10392) | 2023 | to-read | More use, worse sleep (dose-response) |
+| chu2023 | [Dose-response analysis of smartphone usage and self-reported sleep quality: a systematic review and meta-analysis of observational studies](https://doi.org/10.5664/jcsm.10392) | 2023 | skimmed | More use, worse sleep (dose-response) |
 | almamun2025 | [The prevalence of nomophobia: A systematic review and meta-analysis](https://doi.org/10.1016/j.psychres.2025.116521) | 2025 | to-read | Current nomophobia prevalence |
 | leonmejia2021 | [A systematic review on nomophobia prevalence: Surfacing results and standard guidelines for future research](https://doi.org/10.1371/journal.pone.0250509) | 2021 | to-read | Earlier nomophobia review with guidelines |
 | larsen2023 | [Excessive smartphone use and addiction: When harms start outweighing benefits](https://doi.org/10.1111/add.16060) | 2023 | to-read | Where use turns into a problem |
