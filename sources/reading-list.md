@@ -22,7 +22,7 @@ Priority: ★ = read first
 | leonmejia2021 | [A systematic review on nomophobia prevalence: Surfacing results and standard guidelines for future research](https://doi.org/10.1371/journal.pone.0250509) | 2021 | skimmed | Earlier nomophobia review with guidelines |
 | larsen2023 | [Excessive smartphone use and addiction: When harms start outweighing benefits](https://doi.org/10.1111/add.16060) | 2023 | read | Where use turns into a problem |
 | james2023 | [Understanding the construction of 'behavior' in smartphone addiction: A scoping review](https://doi.org/10.1016/j.addbeh.2022.107503) | 2023 | read | What "use" actually means in addiction studies |
-| hitcham2023 | [The relationship between smartphone use and smartphone addiction: An examination of logged and self-reported behavior in a pre-registered, two-wave sample](https://doi.org/10.1016/j.chb.2023.107822) | 2023 | to-read | Does logged use actually predict "addiction"? |
+| hitcham2023 | [The relationship between smartphone use and smartphone addiction: An examination of logged and self-reported behavior in a pre-registered, two-wave sample](https://doi.org/10.1016/j.chb.2023.107822) | 2023 | skimmed | Does logged use actually predict "addiction"? |
 
 ## Usage patterns and notifications
 
