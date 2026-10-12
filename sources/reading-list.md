@@ -45,7 +45,7 @@ Priority: ★ = read first
 | nesi2026 | [Objectively measured smartphone pickups among adolescents: Associations with daily positive and negative affect and mindfulness](https://doi.org/10.1037/ppm0000601) | 2026 | to-read | Recent, logged pick-ups and mood |
 | parry2021 | ★ [A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use](https://doi.org/10.1038/s41562-021-01117-5) | 2021 | to-read | The reference on self-report vs logged (1000+ citations) |
 | tran2019 | [Modeling the Engagement-Disengagement Cycle of Compulsive Phone Use](https://doi.org/10.1145/3290605.3300542) | 2019 | to-read | How compulsive checking is experienced |
-| skinner1948 | ["Superstition" in the pigeon](https://doi.org/10.1037/h0055873) | 1948 | to-read | Behaviour kept going by rewards it does not cause; checking that finds nothing |
+| skinner1948 | ["Superstition" in the pigeon](https://doi.org/10.1037/h0055873) | 1948 | read | Behaviour kept going by rewards it does not cause; checking that finds nothing |
 
 ## Attention and productivity
 
