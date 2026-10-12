@@ -35,7 +35,7 @@ Priority: ★ = read first
 | ellis2019 | [Do smartphone usage scales predict behavior?](https://doi.org/10.1016/j.ijhcs.2019.05.004) | 2019 | read | Scales barely match logged use |
 | mehrotra2016 | [My Phone and Me: Understanding People's Receptivity to Mobile Notifications](https://doi.org/10.1145/2858036.2858566) | 2016 | skimmed | What makes notifications disruptive |
 | bohmer2011 | [Falling asleep with Angry Birds, Facebook and Kindle: a large scale study on mobile application usage](https://doi.org/10.1145/2037373.2037383) | 2011 | skimmed | Large-scale app usage, short sessions |
-| stothart2015 | [The attentional cost of receiving a cell phone notification](https://doi.org/10.1037/xhp0000100) | 2015 | to-read | A notification alone harms attention |
+| stothart2015 | [The attentional cost of receiving a cell phone notification](https://doi.org/10.1037/xhp0000100) | 2015 | skimmed | A notification alone harms attention |
 | vanberkel2016 | [A Systematic Assessment of Smartphone Usage Gaps](https://doi.org/10.1145/2858036.2858348) | 2016 | to-read | Defining sessions in logged data |
 | ferreira2014 | [Contextual experience sampling of mobile application micro-usage](https://doi.org/10.1145/2628363.2628367) | 2014 | to-read | Micro-usage (<15 s sessions) |
 | wilcockson2018 | [Determining Typical Smartphone Usage: What Data Do We Need?](https://doi.org/10.1089/cyber.2017.0652) | 2018 | to-read | Checking frequency as key measure |
