@@ -32,7 +32,7 @@ Priority: ★ = read first
 | heitmayer2021 | ★ [Why are smartphones disruptive? An empirical study of smartphone use in real-life contexts](https://doi.org/10.1016/j.chb.2020.106637) | 2021 | read | Most interactions are self-initiated |
 | pielot2014 | [An in-situ study of mobile phone notifications](https://doi.org/10.1145/2628363.2628364) | 2014 | skimmed | Notification volume and response times |
 | andrews2015 | [Beyond Self-Report: Tools to Compare Estimated and Real-World Smartphone Use](https://doi.org/10.1371/journal.pone.0139004) | 2015 | skimmed | People misjudge their own use |
-| ellis2019 | [Do smartphone usage scales predict behavior?](https://doi.org/10.1016/j.ijhcs.2019.05.004) | 2019 | to-read | Scales barely match logged use |
+| ellis2019 | [Do smartphone usage scales predict behavior?](https://doi.org/10.1016/j.ijhcs.2019.05.004) | 2019 | read | Scales barely match logged use |
 | mehrotra2016 | [My Phone and Me: Understanding People's Receptivity to Mobile Notifications](https://doi.org/10.1145/2858036.2858566) | 2016 | to-read | What makes notifications disruptive |
 | bohmer2011 | [Falling asleep with Angry Birds, Facebook and Kindle: a large scale study on mobile application usage](https://doi.org/10.1145/2037373.2037383) | 2011 | to-read | Large-scale app usage, short sessions |
 | stothart2015 | [The attentional cost of receiving a cell phone notification](https://doi.org/10.1037/xhp0000100) | 2015 | to-read | A notification alone harms attention |
