@@ -38,7 +38,7 @@ Priority: ★ = read first
 | stothart2015 | [The attentional cost of receiving a cell phone notification](https://doi.org/10.1037/xhp0000100) | 2015 | skimmed | A notification alone harms attention |
 | vanberkel2016 | [A Systematic Assessment of Smartphone Usage Gaps](https://doi.org/10.1145/2858036.2858348) | 2016 | skimmed | Defining sessions in logged data |
 | ferreira2014 | [Contextual experience sampling of mobile application micro-usage](https://doi.org/10.1145/2628363.2628367) | 2014 | skimmed | Micro-usage (<15 s sessions) |
-| wilcockson2018 | [Determining Typical Smartphone Usage: What Data Do We Need?](https://doi.org/10.1089/cyber.2017.0652) | 2018 | to-read | Checking frequency as key measure |
+| wilcockson2018 | [Determining Typical Smartphone Usage: What Data Do We Need?](https://doi.org/10.1089/cyber.2017.0652) | 2018 | skimmed | Checking frequency as key measure |
 | ohme2021 | [Mobile data donations: Assessing self-report accuracy and sample biases with the iOS Screen Time function](https://doi.org/10.1177/2050157920959106) | 2021 | to-read | Self-report vs iOS Screen Time logs. Online 2020 |
 | tng2024 | [Nuanced relationships between indices of smartphone use and psychological distress: distinguishing problematic smartphone use, phone checking, and screen time](https://doi.org/10.1080/0144929x.2023.2196573) | 2024 | to-read | Separates PSU, checking, screen time. Online 2023 |
 | cho2021 | [Reflect, not Regret: Understanding Regretful Smartphone Use with App Feature-Level Analysis](https://doi.org/10.1145/3479600) | 2021 | to-read | Which uses people regret (PACM HCI / CSCW) |
