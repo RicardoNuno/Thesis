@@ -14,6 +14,7 @@ and reading notes. The link is shared with the PD/E course coordinator
 | What's planned and what's being done        | [Project board](https://github.com/users/RicardoNuno/projects/6) |
 | Sprint goals, presentations and reviews     | [`sprints/`](sprints/)                 |
 | What I've read and what I think about it    | [`sources/`](sources/)                 |
+| What I did each week                        | [`notebooks/`](notebooks/)             |
 
 ## Calendar
 
@@ -60,6 +61,9 @@ Size: `S` (≤ half a day) · `M` (1–3 days) · `L` (a week or more, split it)
 ```
 .
 ├── proposal.pdf              # thesis proposal
+├── notebooks/                # weekly log
+│   └── sprint-N/
+│       └── week-W.md
 ├── sprints/
 │   └── sprint-N/
 │       ├── README.md         # goal, presentation, review, retro
