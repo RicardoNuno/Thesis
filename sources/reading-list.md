@@ -58,7 +58,7 @@ Priority: ★ = read first
 | leiva2012 | [Back to the app: the costs of mobile application interruptions](https://doi.org/10.1145/2371574.2371617) | 2012 | skimmed | App interruptions rare (3–8% of use) but up to 4× longer task time. Dated (2010–12 data) |
 | kim2017pomodolock | [Technology Supported Behavior Restriction for Mitigating Self-Interruptions in Multi-device Environments](https://doi.org/10.1145/3130932) | 2017 | skimmed | PomodoLock: user-chosen, stoppable blocking felt less coercive than a timer alone |
 | mark2018 | [Effects of Individual Differences in Blocking Workplace Distractions](https://doi.org/10.1145/3173574.3173666) | 2018 | skimmed | Blocking helps low self-control workers; high self-control ones skip breaks and get more stressed |
-| anderson2018 | [A Survey of Attention Management Systems in Ubiquitous Computing Environments](https://doi.org/10.1145/3214261) | 2018 | to-read | Attention fragmentation and management systems |
+| anderson2018 | [A Survey of Attention Management Systems in Ubiquitous Computing Environments](https://doi.org/10.1145/3214261) | 2018 | skimmed | Survey: sensing + ML to time notifications (defer to breakpoints); mostly external interruptions |
 
 ## Interventions
 
