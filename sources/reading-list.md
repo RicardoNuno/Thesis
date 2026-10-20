@@ -53,7 +53,7 @@ Priority: ★ = read first
 | ------ | ----- | ---- | ------ | ---- |
 | ward2017 | ★ [Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity](https://doi.org/10.1086/691462) | 2017 | read | Phone nearby lowers cognitive capacity, even off and unnoticed |
 | parry2024brain | [Does the Mere Presence of a Smartphone Impact Cognitive Performance? A Meta-Analysis of the "Brain Drain Effect"](https://doi.org/10.1080/15213269.2023.2286647) | 2024 | skimmed | Brain drain only holds for working memory, and much smaller (d = −0.20). Online 2023 |
-| wilmer2017 | [Smartphones and Cognition: A Review of Research Exploring the Links between Mobile Technology Habits and Cognitive Functioning](https://doi.org/10.3389/fpsyg.2017.00605) | 2017 | to-read | Review of cognitive effects |
+| wilmer2017 | [Smartphones and Cognition: A Review of Research Exploring the Links between Mobile Technology Habits and Cognitive Functioning](https://doi.org/10.3389/fpsyg.2017.00605) | 2017 | read | Attention, memory (Google effect), delay of gratification; evidence thin |
 | duke2017 | [Smartphone addiction, daily interruptions and self-reported productivity](https://doi.org/10.1016/j.abrep.2017.07.002) | 2017 | to-read | Addiction, interruptions and productivity |
 | leiva2012 | [Back to the app: the costs of mobile application interruptions](https://doi.org/10.1145/2371574.2371617) | 2012 | to-read | Cost of internal vs external interruptions |
 | kim2017pomodolock | [Technology Supported Behavior Restriction for Mitigating Self-Interruptions in Multi-device Environments](https://doi.org/10.1145/3130932) | 2017 | to-read | Self-interruptions (PomodoLock) |
