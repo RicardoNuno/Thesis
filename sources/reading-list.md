@@ -43,7 +43,7 @@ Priority: ★ = read first
 | tng2024 | [Nuanced relationships between indices of smartphone use and psychological distress: distinguishing problematic smartphone use, phone checking, and screen time](https://doi.org/10.1080/0144929x.2023.2196573) | 2024 | skimmed | Separates PSU, checking, screen time. Online 2023 |
 | cho2021 | [Reflect, not Regret: Understanding Regretful Smartphone Use with App Feature-Level Analysis](https://doi.org/10.1145/3479600) | 2021 | read | Which uses people regret, at app-feature level (PACM HCI / CSCW) |
 | nesi2026 | [Objectively measured smartphone pickups among adolescents: Associations with daily positive and negative affect and mindfulness](https://doi.org/10.1037/ppm0000601) | 2026 | skimmed | Logged pick-ups (~113/day) and mood in teens. Online 2025 |
-| parry2021 | ★ [A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use](https://doi.org/10.1038/s41562-021-01117-5) | 2021 | to-read | The reference on self-report vs logged (1000+ citations) |
+| parry2021 | ★ [A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use](https://doi.org/10.1038/s41562-021-01117-5) | 2021 | read | The reference on self-report vs logged: r = .38, problematic-use scales r = .25 |
 | tran2019 | [Modeling the Engagement-Disengagement Cycle of Compulsive Phone Use](https://doi.org/10.1145/3290605.3300542) | 2019 | skimmed | Triggers that start and end compulsive checking |
 | skinner1948 | ["Superstition" in the pigeon](https://doi.org/10.1037/h0055873) | 1948 | read | Behaviour kept going by rewards it does not cause; checking that finds nothing |
 
