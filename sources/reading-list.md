@@ -51,7 +51,7 @@ Priority: ★ = read first
 
 | Bibkey | Title | Year | Status | Note |
 | ------ | ----- | ---- | ------ | ---- |
-| ward2017 | ★ [Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity](https://doi.org/10.1086/691462) | 2017 | to-read | Phone nearby lowers cognitive capacity |
+| ward2017 | ★ [Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity](https://doi.org/10.1086/691462) | 2017 | read | Phone nearby lowers cognitive capacity, even off and unnoticed |
 | parry2024brain | [Does the Mere Presence of a Smartphone Impact Cognitive Performance? A Meta-Analysis of the "Brain Drain Effect"](https://doi.org/10.1080/15213269.2023.2286647) | 2024 | to-read | Critical meta-analysis of brain drain. Online 2023 |
 | wilmer2017 | [Smartphones and Cognition: A Review of Research Exploring the Links between Mobile Technology Habits and Cognitive Functioning](https://doi.org/10.3389/fpsyg.2017.00605) | 2017 | to-read | Review of cognitive effects |
 | duke2017 | [Smartphone addiction, daily interruptions and self-reported productivity](https://doi.org/10.1016/j.abrep.2017.07.002) | 2017 | to-read | Addiction, interruptions and productivity |
