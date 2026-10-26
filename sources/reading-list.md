@@ -64,7 +64,7 @@ Priority: ★ = read first
 
 | Bibkey | Title | Year | Status | Note |
 | ------ | ----- | ---- | ------ | ---- |
-| lyngs2019 | ★ [Self-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control Tools](https://doi.org/10.1145/3290605.3300361) | 2019 | to-read | Maps 367 self-control tools |
+| lyngs2019 | ★ [Self-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control Tools](https://doi.org/10.1145/3290605.3300361) | 2019 | read | 367 tools in 4 clusters (block/removal, self-tracking, goals, reward/punishment) mapped to dual systems theory |
 | mongeroffarello2019 | [The Race Towards Digital Wellbeing: Issues and Opportunities](https://doi.org/10.1145/3290605.3300616) | 2019 | to-read | Commercial wellbeing apps have limited effect |
 | kim2019goalkeeper | [GoalKeeper: Exploring Interaction Lockout Mechanisms for Regulating Smartphone Use](https://doi.org/10.1145/3314403) | 2019 | to-read | Weak vs strong lockout |
 | ko2016 | [Lock n' LoL: Group-based Limiting Assistance App to Mitigate Smartphone Distractions in Group Activities](https://doi.org/10.1145/2858036.2858568) | 2016 | to-read | Group-based limiting |
@@ -82,6 +82,7 @@ Priority: ★ = read first
 | olson2022nudge | [A Nudge-Based Intervention to Reduce Problematic Smartphone Use: Randomised Controlled Trial](https://doi.org/10.1007/s11469-022-00826-w) | 2022 | to-read | RCT: ten nudges reduce use |
 | schmuck2020 | [Does Digital Detox Work? Exploring the Role of Digital Detox Applications for Problematic Smartphone Use and Well-Being of Young Adults](https://doi.org/10.1089/cyber.2019.0578) | 2020 | to-read | Detox apps and wellbeing |
 | vanvelthoven2018 | [Problematic smartphone use: Digital approaches to an emerging public health problem](https://doi.org/10.1177/2055207618759167) | 2018 | to-read | Irony and limits of apps against overuse |
+| okeke2018 | [Good Vibrations: Can a Digital Nudge Reduce Digital Overload?](https://doi.org/10.1145/3229434.3229463) | 2018 | to-read | Pulsing vibration after a Facebook limit (MobileHCI). Closest to my vibration idea |
 
 ## Mobile OS control and open phones
 
