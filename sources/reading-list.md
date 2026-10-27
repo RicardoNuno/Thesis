@@ -90,7 +90,6 @@ Priority: ★ = read first
 | ------ | ----- | ---- | ------ | ---- |
 | datta2022 | [Mind-proofing Your Phone: Navigating the Digital Minefield with GreaseTerminator](https://doi.org/10.1145/3490099.3511152) | 2022 | to-read | Android overlays to intervene in apps |
 | lu2024 | [InteractOut: Leveraging Interaction Proxies as Input Manipulation Strategies for Reducing Smartphone Overuse](https://doi.org/10.1145/3613904.3642317) | 2024 | to-read | Accessibility-service overlays to add friction |
-| berker2023 | ★ [Infrastructures by the users for users: Motivations, constraints, and consequences of user-driven infrastructuring of mobile phones](https://doi.org/10.1177/14614448231166896) | 2023 | to-read | LineageOS, SailfishOS, PinePhone: why users build their own phone OS |
 | mayrhofer2021 | [The Android Platform Security Model](https://doi.org/10.1145/3448609) | 2021 | to-read | Why Android restricts apps (sandbox, permissions) |
 
 ## Alternatives and non-use
@@ -108,7 +107,6 @@ Priority: ★ = read first
 | chia2021 | [Ethics and Experimentation in The Light Phone and Google Digital Wellbeing](https://doi.org/10.5040/9798881814557.ch6) | 2021 | to-read | Book chapter on the Light Phone |
 | newport2019 | Digital Minimalism: Choosing a Focused Life in a Noisy World (Portfolio/Penguin) | 2019 | to-read | Book: popularised "digital minimalism". No DOI |
 | aylsworth2021 | [Is There a Duty to Be a Digital Minimalist?](https://doi.org/10.1111/japp.12498) | 2021 | to-read | Philosophical case for minimalism |
-| skorupska2026 | [A Dedicated E-Paper Design System for Mobile Phones: Limitations, Design Process and Implementation Insights](https://doi.org/10.1145/3772318.3791459) | 2026 | to-read | Designing for e-paper minimalist phones (Light Phone, Mudita) |
 | jansson2024 | [Resonance in an accelerating world: Understanding the emergence and characteristics of post-digital artifacts](https://doi.org/10.1177/13548565241302246) | 2024 | to-read | Light Phone and Punkt as post-digital artifacts |
 | ghita2021 | [Going cold turkey!: An autoethnographic exploration of digital disengagement](https://doi.org/10.2478/nor-2021-0047) | 2021 | to-read | Living with minimal phones (Light Phone, Punkt) |
 | goggin2025 | [Mobile AI: Communication and Mobility After the Smartphone](https://doi.org/10.1007/s44382-025-00002-3) | 2025 | to-read | Post-smartphone futures |
@@ -145,11 +143,9 @@ Priority: ★ = read first
 | rogers2006 | [Moving on from Weiser's Vision of Calm Computing: Engaging UbiComp Experiences](https://doi.org/10.1007/11853565_24) | 2006 | to-read | Critique of "calm" ubicomp vs engaging tech |
 | haddon2011 | [Domestication Analysis, Objects of Study, and the Centrality of Technologies in Everyday Life](https://doi.org/10.22230/cjc.2011v36n2a2322) | 2011 | to-read | Domestication theory overview |
 | dereuver2016 | [Domestication of smartphones and mobile applications: A quantitative mixed-method study](https://doi.org/10.1177/2050157916649989) | 2016 | to-read | How smartphones became part of daily life |
-| evans2019 | [What Caused the Smartphone Revolution?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455247) | 2019 | to-read | Working paper (SSRN, not peer-reviewed): role of 3G/4G in the smartphone boom |
 | woyke2014 | [The Smartphone: Anatomy of an Industry](https://doi.org/10.1515/9781595589682) | 2014 | to-read | Book: industry history, PDA to smartphone |
 | bittman2009 | [The mobile phone, perpetual contact and time pressure](https://doi.org/10.1177/0950017009344910) | 2009 | to-read | Always reachable, time pressure |
 | mascheroni2016 | [Perpetual contact as a communicative affordance: Opportunities, constraints, and emotions](https://doi.org/10.1177/2050157916639347) | 2016 | to-read | "Always on" imperative |
 | hall2012 | [Calling and texting (too much): Mobile maintenance expectations, (over)dependence, entrapment, and friendship satisfaction](https://doi.org/10.1177/1461444811415047) | 2012 | to-read | Feeling trapped by constant contact. Online 2011 |
-| belk2013 | [Extended Self in a Digital World](https://doi.org/10.1086/671052) | 2013 | to-read | Digital possessions as part of the self |
 | clayton2015 | ★ [The Extended iSelf: The Impact of iPhone Separation on Cognition, Emotion, and Physiology](https://doi.org/10.1111/jcc4.12109) | 2015 | to-read | Separation from phone raises anxiety, lowers performance |
 | ross2021 | [Explicating self-phones: Dimensions and correlates of smartphone self-extension](https://doi.org/10.1177/2050157920980508) | 2021 | to-read | Smartphone as extension of the self |
