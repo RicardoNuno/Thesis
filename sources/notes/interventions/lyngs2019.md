@@ -40,7 +40,7 @@ Reviews 367 apps and browser extensions for digital self-control (Google Play, A
 
 ## How it relates to my thesis
 
-Gives me the vocabulary and taxonomy for the State of the Art: the interventions I've seen (tracking, hiding, blocking, gamification / social sharing, awareness, muting, night-use limits) fit the four clusters, and the dual systems model explains them (blocking stops System 1 habits; tracking and goals support System 2). The gaps it names point to my design space: **delay** (slowing a check rather than blocking it), and scaffolding new habits instead of only preventing old ones, which also avoids the frustration of blocking (tran2019, cho2021). It also cites Okeke et al. 2018 (pulsing vibration after a usage limit), the closest existing work to my vibration idea, so I should read and cite it. The Android vs iOS permission point supports building on Android.
+Gives me the vocabulary and taxonomy for the State of the Art: the interventions I've seen (tracking, hiding, blocking, gamification / social sharing, awareness, muting, night-use limits) fit the four clusters, and the dual systems model explains them (blocking stops System 1 habits; tracking and goals support System 2). The gaps it names are candidate directions for an intervention: **delay** (slowing a check rather than blocking it), and scaffolding new habits instead of only preventing old ones, which also avoids the frustration of blocking (tran2019, cho2021). It also cites Okeke et al. 2018 (pulsing vibration after a usage limit), the closest existing work to the vibration idea (tran2019), so worth reading. The Android vs iOS permission point supports building on Android.
 
 ## Quotes / figures worth citing (with section)
 

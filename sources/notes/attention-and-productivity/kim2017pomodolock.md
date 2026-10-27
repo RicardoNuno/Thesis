@@ -37,7 +37,7 @@ After interviewing 16 graduate students, who found self-interruptions (social me
 
 ## How it relates to my thesis
 
-Most important point for my design: **give the user control over what is restricted**. Self-chosen blocklists, editable at any time, time-limited and stoppable, made restriction feel supportive instead of coercive, which complements tran2019 (people want lock-outs but don't adopt them) and cho2021 (blocking frustrates because it ignores context). The internal vs external coercion split is a useful argument: a tool that takes over the effort of resisting can lower stress, as long as the user stays in charge (fits the dual-systems view in lyngs2019). Also shows self-interruptions are the hard problem, not notifications, and that blocking only one device leaks to the other, which is relevant if a smartwatch is part of my setup.
+Most important point for intervention design: **give the user control over what is restricted**. Self-chosen blocklists, editable at any time, time-limited and stoppable, made restriction feel supportive instead of coercive, which complements tran2019 (people want lock-outs but don't adopt them) and cho2021 (blocking frustrates because it ignores context). The internal vs external coercion split is a useful argument: a tool that takes over the effort of resisting can lower stress, as long as the user stays in charge (fits the dual-systems view in lyngs2019). Also shows self-interruptions are the hard problem, not notifications, and that blocking only one device leaks to the other, which is relevant if a smartwatch is part of the setup.
 
 ## Quotes / figures worth citing (with page)
 

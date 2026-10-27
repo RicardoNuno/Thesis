@@ -26,7 +26,7 @@ Three studies on commercial digital wellbeing apps: a feature review of the 42 m
 
 ## Strengths / limitations
 
-- Strength: combines a market review, real user voices and logged field data; Android implementation close to what I plan to build.
+- Strength: combines a market review, real user voices and logged field data; Android implementation close to the kind of prototype in my proposal.
 - Strength: logged unlocks and compulsive checks, not just screen time, which exposes that time dropped but checking didn't.
 - Limitation: 3 weeks, 38 mostly student participants, overlapping with exams; no control group (pre–post only), so the drop in time may be novelty or seasonal.
 - Limitation: within-subject data analysed with independent t-tests (should be paired / repeated measures); some numbers don't add up (130 of 245 snoozes reported as 54.06%; blockers "deleted before the end of the collection phase").
@@ -35,7 +35,7 @@ Three studies on commercial digital wellbeing apps: a feature review of the 42 m
 
 ## How it relates to my thesis
 
-The closest predecessor to my prototype: an Android app with the standard wellbeing features, evaluated in the field, that reduced screen time but **not checking**. That is exactly the gap my thesis targets, and it supports measuring unlocks and compulsive checks, not only minutes. Its feature table is a ready baseline for comparing my design against commercial apps and Digital Wellbeing (the proposal's baseline). It also documents Android limits (no notification control from the SDK, tracking accuracy, background time counted as use, battery complaints), which matter for my technical evaluation. Its conclusion that users want *stricter* tools conflicts with tran2019, kim2017pomodolock and mark2018 (restriction frustrates or must stay under user control); a sensible reading is that easily snoozed timers are ignored, so an intervention needs some friction without becoming a lock-out (cf. the delay gap in lyngs2019).
+The closest predecessor to the prototype in my proposal: an Android app with the standard wellbeing features, evaluated in the field, that reduced screen time but **not checking**. That gap (checking, not just time) is a candidate focus for my thesis, and it supports measuring unlocks and compulsive checks, not only minutes. Its feature table is a ready baseline for comparing a prototype against commercial apps and Digital Wellbeing (the proposal's baseline). It also documents Android limits (no notification control from the SDK, tracking accuracy, background time counted as use, battery complaints), which matter for my technical evaluation. Its conclusion that users want *stricter* tools conflicts with tran2019, kim2017pomodolock and mark2018 (restriction frustrates or must stay under user control); a sensible reading is that easily snoozed timers are ignored, so an intervention needs some friction without becoming a lock-out (cf. the delay gap in lyngs2019).
 
 ## Quotes / figures worth citing (with page)
 

@@ -32,12 +32,12 @@ Survey of "attention management systems": systems that sense the user's context,
 - Strength: good bridge from cognitive theory to concrete design rules; useful tables of sensors/features, models and strategies.
 - Strength: explicit open research questions (ethics, transparency, long-term evaluation).
 - Limitation: not systematic; covers literature to ~2017.
-- Limitation: centred on external interruptions (notifications), while my thesis targets self-initiated checking.
+- Limitation: centred on external interruptions (notifications), while self-initiated checking is a candidate focus for my thesis.
 - Limitation: physiological sensing and some systems discussed are lab-heavy and not deployable on commodity phones.
 
 ## How it relates to my thesis
 
-Main reference for an AI / adaptive approach: it shows how phones already infer interruptibility from sensors and app usage with machine learning, and the pipeline (sense → infer → model → manage) is a good template for describing an adaptive intervention. Its design rules transfer to my case: intervene at breakpoints rather than mid-task, keep the logic transparent and overridable (matches kim2017pomodolock and mark2018 on user control), and evaluate beyond a few weeks. It also confirms the gap I'm targeting: most attention management handles notifications, while self-interruptions persist even when notifications are off (heitmayer2021, kim2017pomodolock).
+Main reference for an AI / adaptive approach: it shows how phones already infer interruptibility from sensors and app usage with machine learning, and the pipeline (sense → infer → model → manage) is a good template for describing an adaptive intervention. Its design rules transfer to my case: intervene at breakpoints rather than mid-task, keep the logic transparent and overridable (matches kim2017pomodolock and mark2018 on user control), and evaluate beyond a few weeks. It also points to a gap: most attention management handles notifications, while self-interruptions persist even when notifications are off (heitmayer2021, kim2017pomodolock).
 
 ## Quotes / figures worth citing (with page)
 

@@ -38,7 +38,7 @@ Pre-registered systematic review and meta-analyses of experiments testing whethe
 
 ## How it relates to my thesis
 
-The counterweight to ward2017: the mere-presence effect survives only for working memory, and is much smaller than in the original studies. For the motivation I should cite brain drain cautiously ("a small effect on working memory"), or rather lean on effects of actually checking the phone (stothart2015, cho2021, tran2019), which is what my thesis targets anyway. Also another example of Parry's point in parry2021: small samples and weak measures give inflated effects, so my own evaluation needs an adequate sample size.
+The counterweight to ward2017: the mere-presence effect survives only for working memory, and is much smaller than in the original studies. For the motivation I should cite brain drain cautiously ("a small effect on working memory"), or rather lean on effects of actually checking the phone (stothart2015, cho2021, tran2019), which is closer to what my thesis is about anyway. Also another example of Parry's point in parry2021: small samples and weak measures give inflated effects, so my own evaluation needs an adequate sample size.
 
 ## Quotes / figures worth citing (with page)
 
