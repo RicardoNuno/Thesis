@@ -91,7 +91,6 @@ Priority: ★ = read first
 | datta2022 | [Mind-proofing Your Phone: Navigating the Digital Minefield with GreaseTerminator](https://doi.org/10.1145/3490099.3511152) | 2022 | to-read | Android overlays to intervene in apps |
 | lu2024 | [InteractOut: Leveraging Interaction Proxies as Input Manipulation Strategies for Reducing Smartphone Overuse](https://doi.org/10.1145/3613904.3642317) | 2024 | to-read | Accessibility-service overlays to add friction |
 | berker2023 | ★ [Infrastructures by the users for users: Motivations, constraints, and consequences of user-driven infrastructuring of mobile phones](https://doi.org/10.1177/14614448231166896) | 2023 | to-read | LineageOS, SailfishOS, PinePhone: why users build their own phone OS |
-| knoll2021 | [Das Smartphone-Dilemma und die Frage der Offenheit](https://doi.org/10.1365/s40702-021-00713-3) | 2021 | to-read | In German. Open phones (PinePhone, Librem 5) compared |
 | mayrhofer2021 | [The Android Platform Security Model](https://doi.org/10.1145/3448609) | 2021 | to-read | Why Android restricts apps (sandbox, permissions) |
 
 ## Alternatives and non-use
@@ -112,8 +111,6 @@ Priority: ★ = read first
 | skorupska2026 | [A Dedicated E-Paper Design System for Mobile Phones: Limitations, Design Process and Implementation Insights](https://doi.org/10.1145/3772318.3791459) | 2026 | to-read | Designing for e-paper minimalist phones (Light Phone, Mudita) |
 | jansson2024 | [Resonance in an accelerating world: Understanding the emergence and characteristics of post-digital artifacts](https://doi.org/10.1177/13548565241302246) | 2024 | to-read | Light Phone and Punkt as post-digital artifacts |
 | ghita2021 | [Going cold turkey!: An autoethnographic exploration of digital disengagement](https://doi.org/10.2478/nor-2021-0047) | 2021 | to-read | Living with minimal phones (Light Phone, Punkt) |
-| silchenko2025 | [Technology Dualities and Paradoxes in Digital Well-Being: Analysis of Discourses of Digital Well-Being Market Offerings](https://doi.org/10.1177/02761467251356660) | 2025 | to-read | How minimalist phones and wellbeing products are marketed |
-| agnihotri2023 | [Light Phone: The Challenges of Vintage Innovation](https://doi.org/10.4135/9781529619225) | 2023 | to-read | SAGE business case on the Light Phone company |
 | goggin2025 | [Mobile AI: Communication and Mobility After the Smartphone](https://doi.org/10.1007/s44382-025-00002-3) | 2025 | to-read | Post-smartphone futures |
 
 ## Smartwatches and the phone
@@ -133,7 +130,6 @@ Priority: ★ = read first
 | mcmillan2017 | [Situating Wearables: Smartwatch Use in Context](https://doi.org/10.1145/3025453.3025993) | 2017 | to-read | Watch use in social context |
 | visuri2021 | [Understanding usage style transformation during long-term smartwatch use](https://doi.org/10.1007/s00779-020-01511-2) | 2021 | to-read | How watch use changes over months |
 | chen2021 | [A comparative study of smartphone and smartwatch apps](https://doi.org/10.1145/3412841.3442023) | 2021 | to-read | What watch apps do vs phone apps |
-| lee2020pass | [PASS: Reducing Redundant Notifications between a Smartphone and a Smartwatch for Energy Saving](https://doi.org/10.1109/tmc.2019.2930506) | 2020 | to-read | Watch reduces phone use; energy trade-offs |
 
 ## History and evolution
 
