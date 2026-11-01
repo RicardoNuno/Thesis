@@ -88,7 +88,7 @@ Priority: ★ = read first
 
 | Bibkey | Title | Year | Status | Note |
 | ------ | ----- | ---- | ------ | ---- |
-| datta2022 | [Mind-proofing Your Phone: Navigating the Digital Minefield with GreaseTerminator](https://doi.org/10.1145/3490099.3511152) | 2022 | to-read | Android overlays to intervene in apps |
+| datta2022 | [Mind-proofing Your Phone: Navigating the Digital Minefield with GreaseTerminator](https://doi.org/10.1145/3490099.3511152) | 2022 | read | research framework: screen streamed over ADB to a PC, ML detects elements, overlay hides stories/likes or fades after scrolling; no user study |
 | lu2024 | [InteractOut: Leveraging Interaction Proxies as Input Manipulation Strategies for Reducing Smartphone Overuse](https://doi.org/10.1145/3613904.3642317) | 2024 | to-read | Accessibility-service overlays to add friction |
 | mayrhofer2021 | [The Android Platform Security Model](https://doi.org/10.1145/3448609) | 2021 | to-read | Why Android restricts apps (sandbox, permissions) |
 
