@@ -97,7 +97,7 @@ Priority: ★ = read first
 | Bibkey | Title | Year | Status | Note |
 | ------ | ----- | ---- | ------ | ---- |
 | rothschild2024 | ★ [Swapping 5G for 3G: Motivations, Experiences, and Implications of Contemporary Dumbphone Adoption](https://doi.org/10.1145/3637402) | 2024 | read | 13 dumbphone users + 2 makers: motives (ideology, attention, ambivalence), costs of opting out (MFA, ride-hailing), offloading to people and devices |
-| lee2026 | [Going Light: The Effects of Minimal Mobile Phone Adoption on Young Adults' Well-Being Depend on Motivation](https://doi.org/10.1145/3772318.3791723) | 2026 | to-read | Minimal phones and wellbeing. Check full author list |
+| lee2026 | [Going Light: The Effects of Minimal Mobile Phone Adoption on Young Adults' Well-Being Depend on Motivation](https://doi.org/10.1145/3772318.3791723) | 2026 | skimmed | 1 week on a Light Phone II (volunteers vs randomised): less use, more agency, but wellbeing gains only for volunteers; heavy attrition in assigned group |
 | baumer2013 | [Limiting, Leaving, and (Re)lapsing: An Exploration of Facebook Non-Use Practices and Experiences](https://doi.org/10.1145/2470654.2466446) | 2013 | to-read | Forms of non-use |
 | baumer2015 | [On the importance and implications of studying technology non-use](https://doi.org/10.1145/2723667) | 2015 | to-read | Non-use as a research concern |
 | schraggeova2025 | [The effect of digital detox through digital minimalism using the MinimalistPhone app on the behavior of young users and their emotional experience](https://doi.org/10.1016/j.chbr.2025.100699) | 2025 | to-read | Minimalist launcher app study |
