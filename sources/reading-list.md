@@ -82,7 +82,7 @@ Priority: ★ = read first
 | olson2022nudge | [A Nudge-Based Intervention to Reduce Problematic Smartphone Use: Randomised Controlled Trial](https://doi.org/10.1007/s11469-022-00826-w) | 2022 | skimmed | ten setting nudges (notifications off, greyscale, password unlock…) vs screen time tracking: ~1 h/day less use and lower SAS-SV at 2 weeks |
 | schmuck2020 | [Does Digital Detox Work? Exploring the Role of Digital Detox Applications for Problematic Smartphone Use and Well-Being of Young Adults](https://doi.org/10.1089/cyber.2019.0578) | 2020 | skimmed | survey of 500 young adults: 42% had used a detox app (mostly Screen Time); social media–PSU–wellbeing links absent among users (cross-sectional) |
 | vanvelthoven2018 | [Problematic smartphone use: Digital approaches to an emerging public health problem](https://doi.org/10.1177/2055207618759167) | 2018 | read | commentary (not peer-reviewed, SPACE founder co-author): 21 apps, no evidence; challenges: efficacy, theory, data protection, battery |
-| okeke2018 | [Good Vibrations: Can a Digital Nudge Reduce Digital Overload?](https://doi.org/10.1145/3229434.3229463) | 2018 | to-read | Pulsing vibration after a Facebook limit (MobileHCI). Closest to my vibration idea |
+| okeke2018 | [Good Vibrations: Can a Digital Nudge Reduce Digital Overload?](https://doi.org/10.1145/3229434.3229463) | 2018 | read | vibration every 5 s while over a Facebook limit (Android, 50 MTurk users): −23% time, opens unchanged, gone after removal, mostly irritating |
 
 ## Mobile OS control and open phones
 
