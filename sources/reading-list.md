@@ -89,8 +89,8 @@ Priority: ★ = read first
 | Bibkey | Title | Year | Status | Note |
 | ------ | ----- | ---- | ------ | ---- |
 | datta2022 | [Mind-proofing Your Phone: Navigating the Digital Minefield with GreaseTerminator](https://doi.org/10.1145/3490099.3511152) | 2022 | read | research framework: screen streamed over ADB to a PC, ML detects elements, overlay hides stories/likes or fades after scrolling; no user study |
-| lu2024 | [InteractOut: Leveraging Interaction Proxies as Input Manipulation Strategies for Reducing Smartphone Overuse](https://doi.org/10.1145/3613904.3642317) | 2024 | to-read | Accessibility-service overlays to add friction |
-| mayrhofer2021 | [The Android Platform Security Model](https://doi.org/10.1145/3448609) | 2021 | to-read | Why Android restricts apps (sandbox, permissions) |
+| lu2024 | [InteractOut: Leveraging Interaction Proxies as Input Manipulation Strategies for Reducing Smartphone Overuse](https://doi.org/10.1145/3613904.3642317) | 2024 | skimmed | Accessibility overlay delays/shifts/slows taps and swipes past a limit; vs lockout (N=42, 5 wk): less target-app time and opens, more accepted, total use unchanged |
+| mayrhofer2021 | [The Android Platform Security Model](https://doi.org/10.1145/3448609) | 2021 | read | Google's own model: multi-party consent (user, platform, developer); permission classes incl. special access via Settings; why apps can't watch other apps freely |
 
 ## Alternatives and non-use
 
