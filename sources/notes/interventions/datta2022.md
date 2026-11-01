@@ -12,13 +12,24 @@ A research framework for Android that intervenes at the interface level: the pho
 
 ## Method
 
-- Review of six ways to change app behaviour on phones: app-external (e.g. HabitLab, AppDetox, okeke2018), pre-install patching (GreaseDroid, Lucky Patcher), OS-level/root (Xposed), virtual environments (VirtualXposed), browser scripts, and visual overlays (DetoxDroid, Google Accessibility Suite). Two requirements derived: interface-orientation and ease of use.
+- Review of six ways to change app behaviour on phones (see the next section), from which two requirements are derived: interface-orientation and ease of use.
 - Architecture: Android app streams the screen to a server via ADB; Python hooks process frames; overlay rendered back on the device after the overlay permission is granted.
   - Text hook: EAST text detection + Tesseract OCR.
   - Mask hook: multi-scale template matching against cropped screenshots (contours for dynamic elements), then majority-colour inpainting.
   - Model hook: any ML model on the frame.
 - Latency: ADB relay ~50 ms vs ~800 ms with ScreenCast over TCP/UDP; on-device inference in a Linux container took 60–120 s per frame. Server had 4× RTX 2080.
 - Evaluation: five case studies described as Problem / Known implementations / Challenges / Implementation with GreaseTerminator, loosely based on cognitive walkthroughs.
+
+## Types of app modification (§3.1–3.2)
+
+1. **App-external modifications**: a separate app affects other apps without changing them or the OS; uninstalling it restores everything. The most common approach: tracking usage time, notifications during use (timers, warnings), blocking actions. Examples: HabitLab, AppDetox, NUGU, MyTime, okeke2018. Easy for users and on the Play Store, but limited to what the OS exposes, so it acts on whole apps rather than elements inside them.
+2. **App pre-install modifications**: the app's code is changed before installation, then the patched app is installed. Examples: AppGuard (privacy), GreaseDroid (removing dark patterns with community patches), Lucky Patcher (removing payment code). Can change anything inside an app, but needs sideloading, high developer expertise, and patches break with app updates and differ per app.
+3. **OS-level modifications**: root access to change the OS and apps. Examples: Xposed (Android), Cydia Substrate (iOS jailbreak), TaintDroid, ProtectMyPrivacy. Most powerful, but users must root the phone (may void warranty), tools are often not on the Play Store, and development requires low-level Android knowledge.
+4. **Virtual environment modifications**: a virtual space on the phone simulates root so other modification tools can run without rooting. Example: VirtualXposed. Avoids rooting, but every app the user wants modified must run inside the virtual environment, and it is as hard to develop for as the OS-level approach.
+5. **Browser modifications**: scripts change a website's client-side code in a mobile browser, ported from desktop tools. Examples: TamperMonkey, OilCan, Swipe for Facebook. Easy to develop (JavaScript) and use, but only works on websites, not inside native apps.
+6. **Visual overlay modifications**: graphics are drawn on a layer above whatever is on screen (apps, browser, video, home screen); purely visual, functionality underneath is unchanged. Examples: GreaseTerminator, DetoxDroid, Gray-Switch, Google Accessibility Suite. Works across apps with only the overlay permission, but it has to know what is on screen (here via screen capture) and cannot change app behaviour.
+
+General barriers named by the authors: (i) developers must build each intervention and keep it working across 2.9 million apps and their updates, and port it between platforms; (ii) users face set-up cost for each separate tool and juggling many of them. Interventions that remove elements outright can also block wanted functionality, and HabitLab users weakened or uninstalled interventions over time.
 
 ## Results / evidence
 
