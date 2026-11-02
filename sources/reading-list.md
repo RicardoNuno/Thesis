@@ -105,8 +105,7 @@ Priority: ★ = read first
 | aranda2018 | [Toward "JOMO": The Joy of Missing Out and the Freedom of Disconnecting](https://doi.org/10.1145/3229434.3229468) | 2018 | skimmed | Google Android team ethnography (19 people): habit and obligation cycles; disconnection by duration × control; recommends overridable "speed bumps" and partial disconnection |
 | aylsworth2021 | [Is There a Duty to Be a Digital Minimalist?](https://doi.org/10.1111/japp.12498) | 2021 | skimmed | Kantian argument: imperfect moral duty to use phones intentionally to protect autonomy; minimalism = intentional use, not abstinence; no data |
 | jansson2024 | [Resonance in an accelerating world: Understanding the emergence and characteristics of post-digital artifacts](https://doi.org/10.1177/13548565241302246) | 2024 | skimmed | marketing analysis of Light Phone, Punkt, reMarkable, Freewrite: 5 promised shifts (simplicity, focus, authenticity, materiality, activity); paradox of buying tech to escape tech |
-| ghita2021 | [Going cold turkey!: An autoethnographic exploration of digital disengagement](https://doi.org/10.2478/nor-2021-0047) | 2021 | to-read | Living with minimal phones (Light Phone, Punkt) |
-| goggin2025 | [Mobile AI: Communication and Mobility After the Smartphone](https://doi.org/10.1007/s44382-025-00002-3) | 2025 | to-read | Post-smartphone futures |
+| goggin2025 | [Mobile AI: Communication and Mobility After the Smartphone](https://doi.org/10.1007/s44382-025-00002-3) | 2025 | skimmed | essay on generative AI in phones (Galaxy AI, Apple Intelligence) and AI devices (Humane ai pin, Rabbit R1, Ive–Altman); post-smartphone imaginaries; inequalities |
 
 ## Smartwatches and the phone
 
