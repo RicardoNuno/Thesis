@@ -111,7 +111,7 @@ Priority: ★ = read first
 
 | Bibkey | Title | Year | Status | Note |
 | ------ | ----- | ---- | ------ | ---- |
-| shahu2024 | ★ [Beyond Screen Time: Exploring Smartwatch Interventions for Digital Well-Being](https://doi.org/10.1145/3670653.3670674) | 2024 | to-read | Smartwatch detox aid cut phone screen time; effect faded in week 2 |
+| shahu2024 | ★ [Beyond Screen Time: Exploring Smartwatch Interventions for Digital Well-Being](https://doi.org/10.1145/3670653.3670674) | 2024 | read | Wear OS watch face + vibration alarm on user-set limits (n=6, 2 wk): screen time down in watch-face week, not with alarms; alarms irritating; watch may cut unlocks |
 | cecchinato2017 | ★ [Always On(line)? User Experience of Smartwatches and their Role within Multi-Device Ecologies](https://doi.org/10.1145/3025453.3025538) | 2017 | to-read | Watch alongside the phone: checking less, filtering |
 | bolle2015 | ★ [Optimizing Smartphone Micro-usage with Smartwatch Notifications](https://doi.org/10.1145/2786567.2794313) | 2015 | to-read | Can watch notifications replace phone micro-usage (short paper) |
 | cecchinato2015 | [Smartwatches: the Good, the Bad and the Ugly?](https://doi.org/10.1145/2702613.2732837) | 2015 | to-read | Why people adopt watches |
