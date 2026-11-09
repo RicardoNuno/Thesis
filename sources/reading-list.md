@@ -113,7 +113,7 @@ Priority: ★ = read first
 | ------ | ----- | ---- | ------ | ---- |
 | shahu2024 | ★ [Beyond Screen Time: Exploring Smartwatch Interventions for Digital Well-Being](https://doi.org/10.1145/3670653.3670674) | 2024 | read | Wear OS watch face + vibration alarm on user-set limits (n=6, 2 wk): screen time down in watch-face week, not with alarms; alarms irritating; watch may cut unlocks |
 | cecchinato2017 | ★ [Always On(line)? User Experience of Smartwatches and their Role within Multi-Device Ecologies](https://doi.org/10.1145/3025453.3025538) | 2017 | read | 17 watch owners + autoethnography: glanceable triage avoids pulling out the phone; most later filtered watch notifications; microboundaries; can raise reply expectations |
-| bolle2015 | ★ [Optimizing Smartphone Micro-usage with Smartwatch Notifications](https://doi.org/10.1145/2786567.2794313) | 2015 | to-read | Can watch notifications replace phone micro-usage (short paper) |
+| bolle2015 | ★ [Optimizing Smartphone Micro-usage with Smartwatch Notifications](https://doi.org/10.1145/2786567.2794313) | 2015 | read | watch quick-actions for SMS/email (8 students, 3–4 days): phone micro-sessions −5%, app micro-usage +5%; tiny, compared with a different group |
 | cecchinato2015 | [Smartwatches: the Good, the Bad and the Ugly?](https://doi.org/10.1145/2702613.2732837) | 2015 | to-read | Why people adopt watches |
 | schirra2015 | ["It's kind of like an extra screen for my phone": Understanding Everyday Uses of Consumer Smart Watches](https://doi.org/10.1145/2702613.2732931) | 2015 | to-read | Watch as phone extension for triage |
 | pizza2016 | [Smartwatch in vivo](https://doi.org/10.1145/2858036.2858522) | 2016 | to-read | Video study of glanceable watch use |
