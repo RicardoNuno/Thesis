@@ -131,7 +131,7 @@ Priority: ★ = read first
 | ------ | ----- | ---- | ------ | ---- |
 | weiser1991 | ★ [The Computer for the 21st Century](https://doi.org/10.1038/scientificamerican0991-94) | 1991 | read | Ubiquitous computing vision |
 | rogers2006 | [Moving on from Weiser's Vision of Calm Computing: Engaging UbiComp Experiences](https://doi.org/10.1007/11853565_24) | 2006 | skimmed | critique of Weiser's calm computing: from proactive computing to proactive people; engaging, reflective, user-controlled tech; persuasive self-monitoring |
-| haddon2011 | [Domestication Analysis, Objects of Study, and the Centrality of Technologies in Everyday Life](https://doi.org/10.22230/cjc.2011v36n2a2322) | 2011 | to-read | Domestication theory overview |
+| haddon2011 | [Domestication Analysis, Objects of Study, and the Centrality of Technologies in Everyday Life](https://doi.org/10.22230/cjc.2011v36n2a2322) | 2011 | skimmed | domestication theory review: lock-in when life is reorganised around a technology; "de-domestication" when alternatives appear; no data |
 | dereuver2016 | [Domestication of smartphones and mobile applications: A quantitative mixed-method study](https://doi.org/10.1177/2050157916649989) | 2016 | to-read | How smartphones became part of daily life |
 | bittman2009 | [The mobile phone, perpetual contact and time pressure](https://doi.org/10.1177/0950017009344910) | 2009 | to-read | Always reachable, time pressure |
 | mascheroni2016 | [Perpetual contact as a communicative affordance: Opportunities, constraints, and emotions](https://doi.org/10.1177/2050157916639347) | 2016 | to-read | "Always on" imperative |
