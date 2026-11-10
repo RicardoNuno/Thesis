@@ -130,16 +130,9 @@ Priority: ★ = read first
 | Bibkey | Title | Year | Status | Note |
 | ------ | ----- | ---- | ------ | ---- |
 | weiser1991 | ★ [The Computer for the 21st Century](https://doi.org/10.1038/scientificamerican0991-94) | 1991 | read | Ubiquitous computing vision |
-| goggin2006 | [Cell Phone Culture: Mobile Technology in Everyday Life](https://doi.org/10.4324/9780203827062) | 2006 | to-read | Book: cultural history of the mobile phone |
-| katz2002 | [Perpetual Contact: Mobile Communication, Private Talk, Public Performance](https://doi.org/10.1017/cbo9780511489471) | 2002 | to-read | Book: always-reachable condition |
-| haddon2020 | [Domestication analyses and the smartphone](https://doi.org/10.1093/oxfordhb/9780190864385.013.1) | 2020 | to-read | Domestication from mobile phones to smartphones |
-| smith2011pew | [Smartphone Adoption and Usage (Pew Research Center)](https://www.pewresearch.org/internet/2011/07/11/smartphone-adoption-and-usage/) | 2011 | to-read | 35% of US adults in 2011 vs 91% now |
-| agar2013 | Constant Touch: A Global History of the Mobile Phone (Icon Books, revised ed.) | 2013 | to-read | Book: the standard history of the mobile phone. No DOI |
-| dunnewijk2007 | [A brief history of mobile communication in Europe](https://doi.org/10.1016/j.tele.2007.01.013) | 2007 | to-read | History of mobile networks and adoption |
-| rogers2006 | [Moving on from Weiser's Vision of Calm Computing: Engaging UbiComp Experiences](https://doi.org/10.1007/11853565_24) | 2006 | to-read | Critique of "calm" ubicomp vs engaging tech |
+| rogers2006 | [Moving on from Weiser's Vision of Calm Computing: Engaging UbiComp Experiences](https://doi.org/10.1007/11853565_24) | 2006 | skimmed | critique of Weiser's calm computing: from proactive computing to proactive people; engaging, reflective, user-controlled tech; persuasive self-monitoring |
 | haddon2011 | [Domestication Analysis, Objects of Study, and the Centrality of Technologies in Everyday Life](https://doi.org/10.22230/cjc.2011v36n2a2322) | 2011 | to-read | Domestication theory overview |
 | dereuver2016 | [Domestication of smartphones and mobile applications: A quantitative mixed-method study](https://doi.org/10.1177/2050157916649989) | 2016 | to-read | How smartphones became part of daily life |
-| woyke2014 | [The Smartphone: Anatomy of an Industry](https://doi.org/10.1515/9781595589682) | 2014 | to-read | Book: industry history, PDA to smartphone |
 | bittman2009 | [The mobile phone, perpetual contact and time pressure](https://doi.org/10.1177/0950017009344910) | 2009 | to-read | Always reachable, time pressure |
 | mascheroni2016 | [Perpetual contact as a communicative affordance: Opportunities, constraints, and emotions](https://doi.org/10.1177/2050157916639347) | 2016 | to-read | "Always on" imperative |
 | hall2012 | [Calling and texting (too much): Mobile maintenance expectations, (over)dependence, entrapment, and friendship satisfaction](https://doi.org/10.1177/1461444811415047) | 2012 | to-read | Feeling trapped by constant contact. Online 2011 |
