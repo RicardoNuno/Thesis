@@ -23,6 +23,7 @@ Priority: ★ = read first
 | larsen2023 | [Excessive smartphone use and addiction: When harms start outweighing benefits](https://doi.org/10.1111/add.16060) | 2023 | read | Where use turns into a problem |
 | james2023 | [Understanding the construction of 'behavior' in smartphone addiction: A scoping review](https://doi.org/10.1016/j.addbeh.2022.107503) | 2023 | read | What "use" actually means in addiction studies |
 | hitcham2023 | [The relationship between smartphone use and smartphone addiction: An examination of logged and self-reported behavior in a pre-registered, two-wave sample](https://doi.org/10.1016/j.chb.2023.107822) | 2023 | skimmed | Does logged use actually predict "addiction"? |
+| clayton2015 | ★ [The Extended iSelf: The Impact of iPhone Separation on Cognition, Emotion, and Physiology](https://doi.org/10.1111/jcc4.12109) | 2015 | read | lab, 40 students: separated from a ringing iPhone → higher HR/BP, anxiety, worse puzzle performance; separation confounded with unanswered call |
 
 ## Usage patterns and notifications
 
@@ -132,9 +133,3 @@ Priority: ★ = read first
 | weiser1991 | ★ [The Computer for the 21st Century](https://doi.org/10.1038/scientificamerican0991-94) | 1991 | read | Ubiquitous computing vision |
 | rogers2006 | [Moving on from Weiser's Vision of Calm Computing: Engaging UbiComp Experiences](https://doi.org/10.1007/11853565_24) | 2006 | skimmed | critique of Weiser's calm computing: from proactive computing to proactive people; engaging, reflective, user-controlled tech; persuasive self-monitoring |
 | haddon2011 | [Domestication Analysis, Objects of Study, and the Centrality of Technologies in Everyday Life](https://doi.org/10.22230/cjc.2011v36n2a2322) | 2011 | skimmed | domestication theory review: lock-in when life is reorganised around a technology; "de-domestication" when alternatives appear; no data |
-| dereuver2016 | [Domestication of smartphones and mobile applications: A quantitative mixed-method study](https://doi.org/10.1177/2050157916649989) | 2016 | to-read | How smartphones became part of daily life |
-| bittman2009 | [The mobile phone, perpetual contact and time pressure](https://doi.org/10.1177/0950017009344910) | 2009 | to-read | Always reachable, time pressure |
-| mascheroni2016 | [Perpetual contact as a communicative affordance: Opportunities, constraints, and emotions](https://doi.org/10.1177/2050157916639347) | 2016 | to-read | "Always on" imperative |
-| hall2012 | [Calling and texting (too much): Mobile maintenance expectations, (over)dependence, entrapment, and friendship satisfaction](https://doi.org/10.1177/1461444811415047) | 2012 | to-read | Feeling trapped by constant contact. Online 2011 |
-| clayton2015 | ★ [The Extended iSelf: The Impact of iPhone Separation on Cognition, Emotion, and Physiology](https://doi.org/10.1111/jcc4.12109) | 2015 | to-read | Separation from phone raises anxiety, lowers performance |
-| ross2021 | [Explicating self-phones: Dimensions and correlates of smartphone self-extension](https://doi.org/10.1177/2050157920980508) | 2021 | to-read | Smartphone as extension of the self |
