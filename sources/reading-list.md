@@ -122,7 +122,7 @@ Priority: ★ = read first
 | jeong2017 | [Smartwatch Wearing Behavior Analysis: A Longitudinal Study](https://doi.org/10.1145/3131892) | 2017 | skimmed | 50 students, 203 days, Apple Watch: worn ~10 h/day, 3 take-offs/day; work-hour/active-hour/all-day wearers; self-report overestimates wear |
 | sahamishirazi2015 | [Assessment of Notifications on Smartwatches](https://doi.org/10.1145/2786567.2794338) | 2015 | read | survey (440, almost no watch owners) + 8 watch users 1 week: notification value depends on device; calendar/calls top on watch, messenger mid; route, don't mirror |
 | mcmillan2017 | [Situating Wearables: Smartwatch Use in Context](https://doi.org/10.1145/3025453.3025993) | 2017 | skimmed | same video data as pizza2016: watch use shorter and more basic in company; glances rarely disrupt talk; propose context-aware notification timing |
-| visuri2021 | [Understanding usage style transformation during long-term smartwatch use](https://doi.org/10.1007/s00779-020-01511-2) | 2021 | to-read | How watch use changes over months |
+| visuri2021 | [Understanding usage style transformation during long-term smartwatch use](https://doi.org/10.1007/s00779-020-01511-2) | 2021 | skimmed | 79 Android Wear users up to 14 months: long-term ("accepted") use becomes more passive, fewer notifications and sessions, less prompt checking |
 | chen2021 | [A comparative study of smartphone and smartwatch apps](https://doi.org/10.1145/3412841.3442023) | 2021 | to-read | What watch apps do vs phone apps |
 
 ## History and evolution
