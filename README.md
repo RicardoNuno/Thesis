@@ -15,6 +15,7 @@ and reading notes. The link is shared with the PD/E course coordinator
 | Sprint goals, presentations and reviews     | [`sprints/`](sprints/)                 |
 | What I've read and what I think about it    | [`sources/`](sources/)                 |
 | What I did each week                        | [`notebooks/`](notebooks/)             |
+| The thesis document (LaTeX)                 | [RicardoNuno/mythesis](https://github.com/RicardoNuno/mythesis) |
 
 ## Calendar
 
