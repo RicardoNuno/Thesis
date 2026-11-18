@@ -70,7 +70,7 @@ The watch works without the phone; everything from mode 2 still applies.
 - **Wrist launcher:** the essentials are gathered in one curated launcher. Each task is an intent (e.g. "book a taxi", "pay"), handled by the same intent engine as the phone launcher.
 - **Fallback:** to mode 1 when the watch is off the wrist or charging.
 
-## Architecture
+## Components
 
 ```
 Phone app (Android)
